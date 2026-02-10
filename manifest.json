@@ -1,0 +1,21 @@
+
+{
+  "short_name": "MindGuard",
+  "name": "MindGuard AI Mental Health",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=MG&background=6366f1&color=fff&size=192&bold=true",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=MG&background=6366f1&color=fff&size=512&bold=true",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#fcfdfe"
+}

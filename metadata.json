@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "name": "MindGuard",
+  "description": ""
+}
